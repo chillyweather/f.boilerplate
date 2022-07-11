@@ -1,0 +1,3 @@
+[submodule "figma-plugin-boilerplate"]
+	path = figma-plugin-boilerplate
+	url = https://github.com/chillyweather/f.boilerplate.git
